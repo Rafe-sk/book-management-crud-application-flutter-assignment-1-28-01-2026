@@ -43,15 +43,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-/ios
-linux
-macos
-test
-web
-windows
-.metadata
-analysis_**
-pubspec.lock
-android
-assets
